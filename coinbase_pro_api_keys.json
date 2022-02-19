@@ -1,0 +1,5 @@
+{
+"coinbase_pro_api_key": "Insert CoinbasePro API Key Here",
+"coinbase_pro_api_secret_key": "Insert Coinbase Pro API Secret Key Here",
+"coinbase_api_pro_passphrase": "Insert Passphrase Here"
+}
